@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Xin's space
+title: Welcome to Xin's Zone
 ---
 
 <!--
