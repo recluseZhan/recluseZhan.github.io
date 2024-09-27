@@ -1,11 +1,11 @@
-<!--
 ---
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: 
+title: Welcome to Xin's space
 ---
 
+<!--
 ## What is it?
 
 {% include components/intro.md %}
