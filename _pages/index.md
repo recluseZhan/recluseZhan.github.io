@@ -2,9 +2,10 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+<!-- title: Welcome to Friday Theme -->
 ---
 
+<!--
 ## What is it?
 
 {% include components/intro.md %}
@@ -20,6 +21,8 @@ This web site is the documentation for the theme and also provides examples of h
 [The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
 <hr />
+
+-->
 
 ### Recent Posts
 
