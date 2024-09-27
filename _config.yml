@@ -11,6 +11,8 @@ title:            Xin's world            # Site title
 name:             Xin            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
+url: https://recluseZhan.github.io
+
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 # Use "" when runnign the site out of the root of a domain.
