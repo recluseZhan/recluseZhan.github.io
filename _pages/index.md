@@ -2,7 +2,6 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-<!-- title: Welcome to Friday Theme -->
 ---
 
 <!--
