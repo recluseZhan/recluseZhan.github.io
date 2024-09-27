@@ -1,3 +1,4 @@
+<!--
 ---
 layout: defaults/page
 permalink: index.html
@@ -5,7 +6,6 @@ narrow: true
 title: 
 ---
 
-<!--
 ## What is it?
 
 {% include components/intro.md %}
